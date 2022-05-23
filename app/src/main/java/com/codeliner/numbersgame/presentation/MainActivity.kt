@@ -1,7 +1,8 @@
-package com.codeliner.numbersgame
+package com.codeliner.numbersgame.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.codeliner.numbersgame.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
